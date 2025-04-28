@@ -21,9 +21,11 @@
           footer a:hover {
             color: var(--cor-destaque);
           }
-
-
-
+          body {
+            font-family: "Chakra Petch", sans-serif;
+          }
+        
+          
 
 
 
